@@ -23,7 +23,7 @@ const Navbar: FC<NavbarProps> = ({ onSearch, searchTerm, onOpenCart, cartCount }
             <span className="font-bold text-xl italic">HN</span>
           </div>
           <span className="font-bold text-lg tracking-tight hidden sm:inline-block md:inline lg:text-xl truncate max-w-[150px] sm:max-w-none">
-            Naranjo Héctor
+            Naranjo Héctor Herramientas para Joreyos
           </span>
         </div>
 
