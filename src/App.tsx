@@ -63,7 +63,6 @@ function App() {
     <div className="min-h-screen bg-gray-50 flex flex-col">
       <Helmet>
         <title>Naranjo Héctor | Herramientas de Joyería y Grabado de Alta Precisión</title>
-        <meta name="google-site-verification" content="soHVH4_BQToxRa6m2TYOwkUxyrx_hM4vnFnhtezwVx8" />
         <meta name="description" content="Distribuidor oficial de herramientas GRS y JURA en Colombia. Encuentra sistemas de aire, microbloques, microscopios y buriles para joyería profesional." />
         <meta name="keywords" content="herramientas joyería, grabado profesional, GRS Colombia, JURA tools, microscopio joyería, buriles C-Max, sistemas de aire grabado, Héctor Naranjo" />
         
