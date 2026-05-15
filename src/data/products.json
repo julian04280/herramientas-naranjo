@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "GraverMach AT",
+    "category": "Sistemas de Aire",
+    "brand": "GRS",
+    "description": "El estándar de oro en sistemas de grabado neumático con control de impacto manual.",
+    "image": "https://images.squarespace-cdn.com/content/v1/56c7576562cd946654719d27/1460565863484-9OQJ8D8W9I1S5Y4X9OQJ/GraverMachAT.jpg",
+    "price": "$2,150.00"
+  },
+  {
+    "id": 2,
+    "name": "MicroBlock XL",
+    "category": "Soportes de Trabajo",
+    "brand": "GRS",
+    "description": "Bloque de grabado de alta calidad para trabajos de precisión en joyería.",
+    "image": "https://www.grs.com/wp-content/uploads/2018/11/003-616-MicroBlockXL-1.jpg",
+    "price": "$645.00"
+  },
+  {
+    "id": 3,
+    "name": "Microscopio Leica A60-F",
+    "category": "Óptica",
+    "brand": "Leica",
+    "description": "Microscopio estéreo optimizado para joyería y grabado con gran profundidad de campo.",
+    "image": "https://www.grs.com/wp-content/uploads/2018/11/003-620-LeicaA60F-1.jpg",
+    "price": "$2,490.00"
+  },
+  {
+    "id": 4,
+    "name": "C-Max Buriles",
+    "category": "Buriles",
+    "brand": "GRS",
+    "description": "Buriles de carburo de tungsteno para grabado y engaste de piedras.",
+    "image": "https://www.grs.com/wp-content/uploads/2018/11/022-616-C-Max-Graver-Kit.jpg",
+    "price": "$125.00"
+  },
+  {
+    "id": 5,
+    "name": "JURA Master Set",
+    "category": "Engaste",
+    "brand": "JURA",
+    "description": "Sistema completo de herramientas para engaste de precisión.",
+    "image": "https://www.grs.com/wp-content/uploads/2019/05/500-520-JURA-Master-Set.jpg",
+    "price": "$1,850.00"
+  }
+]
