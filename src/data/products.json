@@ -1,47 +1,1382 @@
 [
   {
     "id": 1,
-    "name": "GraverMach AT",
+    "name": "GraverMach® AT",
     "category": "Sistemas de Aire",
     "brand": "GRS",
-    "description": "El estándar de oro en sistemas de grabado neumático con control de impacto manual.",
-    "image": "https://images.squarespace-cdn.com/content/v1/56c7576562cd946654719d27/1460565863484-9OQJ8D8W9I1S5Y4X9OQJ/GraverMachAT.jpg",
-    "price": "$2,150.00"
+    "description": "Nunca antes un sistema de pieza de mano neumática le había dado al usuario tanta versatilidad y control. Un gran avance técnico es la combinación perfecta de control de manos y pies. Usando una perilla simple, el usuario puede elegir entre el control de la mano o del pie, cuando lo desee. Esto permite una comodidad de trabajo y precisión óptima en una gama más amplia de trabajos creativos. Este avanzado sistema patentado de lógica de aire proporciona control de potencia manual sin agregar partes móviles a la pieza de mano. El resultado es una forma robusta e intuitiva de controlar manualmente la potencia de la pieza de mano. Cuando se prefiere el control de pie, está a solo segundos de distancia. Solo una perilla selectora simple proporciona de forma instantánea mayor control, elección y refinamiento durante el trabajo. La capacidad de cambiar instantáneamente del control de la mano al pie, como se desee, significa una nueva libertad creativa y un estrés reducido",
+    "image": "https://static.wixstatic.com/media/dfa7a6_fbe5d060c9f44383a388cf8ed2a20c27~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dfa7a6_fbe5d060c9f44383a388cf8ed2a20c27~mv2.jpg",
+    "price": "$0.00"
   },
   {
     "id": 2,
-    "name": "MicroBlock XL",
-    "category": "Soportes de Trabajo",
+    "name": "GraverSmith®",
+    "category": "Sistemas de Aire",
     "brand": "GRS",
-    "description": "Bloque de grabado de alta calidad para trabajos de precisión en joyería.",
-    "image": "https://www.grs.com/wp-content/uploads/2018/11/003-616-MicroBlockXL-1.jpg",
-    "price": "$645.00"
+    "description": "Este sistema de grabado ofrece capacidad de trabajo básica y poder de impacto neumático para el montaje y grabado de piedras. Es ideal para montadores de piedra de producción, instalaciones de fábrica múltiples y artesanos individuales con un presupuesto. Este sistema incluye un control de pie y un filtro de aire, y requiere aire comprimido limpio y sin aceite con una presión mínima de 45 psi (3 bar) y un caudal de 1,4 cfm (40 litros por minuto). Los requisitos eléctricos son 100/240 V a 50/60 Hz. La velocidad de carrera oscila entre 400-8000 golpes por minuto (SPM). Las piezas de mano se venden por separado.",
+    "image": "https://static.wixstatic.com/media/dfa7a6_834687e56e3d47baa95118e3415eb180~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dfa7a6_834687e56e3d47baa95118e3415eb180~mv2.jpg",
+    "price": "$0.00"
   },
   {
     "id": 3,
-    "name": "Microscopio Leica A60-F",
-    "category": "Óptica",
-    "brand": "Leica",
-    "description": "Microscopio estéreo optimizado para joyería y grabado con gran profundidad de campo.",
-    "image": "https://www.grs.com/wp-content/uploads/2018/11/003-620-LeicaA60F-1.jpg",
-    "price": "$2,490.00"
+    "name": "Sistema 3 / System 3 Standard Package",
+    "category": "Sistemas de Aire",
+    "brand": "GRS",
+    "description": "El sistema 3 produce pulsos de aire especiales para controlar su pieza de mano de impacto, que utiliza un diseño de pistón y puerto que se auto-oscila con aire comprimido. Es cómodo, liviano y ofrece una potencia de impacto que permite a los usuarios grabar metal, piedras, martillo, textura y tallar madera u otros materiales. La pieza de mano se mantiene fría durante el uso e incluye el sistema de herramienta de cambio rápido GRS que ahorra tiempo.",
+    "image": "https://static.wixstatic.com/media/dfa7a6_ab1931bd217e47b1bcc8ad7c7863368f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dfa7a6_ab1931bd217e47b1bcc8ad7c7863368f~mv2.jpg",
+    "price": "$0.00"
   },
   {
     "id": 4,
-    "name": "C-Max Buriles",
-    "category": "Buriles",
+    "name": "GraverMax® G8",
+    "category": "Sistemas de Aire",
     "brand": "GRS",
-    "description": "Buriles de carburo de tungsteno para grabado y engaste de piedras.",
-    "image": "https://www.grs.com/wp-content/uploads/2018/11/022-616-C-Max-Graver-Kit.jpg",
-    "price": "$125.00"
+    "description": "Este sistema de grabado proporciona a cada pieza de mano un excelente rango de potencia con un control perfecto a lo largo de una gama expandida de velocidades de impacto. El GraverMax G8 tiene conexiones para dos piezas de mano de impacto y una conexión de aire auxiliar para otras herramientas neumáticas, incluida la pieza de mano rotativa GRS Ultra 850. Este sistema incluye un control de pie y un filtro de aire, y requiere aire comprimido limpio y sin aceite con una presión mínima de 45 psi (3 bar) y un caudal de 1,4 cfm (40 litros por minuto). Los requisitos eléctricos son 100/240 V a 50/60 Hz. La velocidad de carrera oscila entre 400-8000 golpes por minuto (SPM). Las piezas de mano se venden por separado.",
+    "image": "https://static.wixstatic.com/media/dfa7a6_fbe5d060c9f44383a388cf8ed2a20c27~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dfa7a6_fbe5d060c9f44383a388cf8ed2a20c27~mv2.jpg",
+    "price": "$0.00"
   },
   {
     "id": 5,
-    "name": "JURA Master Set",
-    "category": "Engaste",
-    "brand": "JURA",
-    "description": "Sistema completo de herramientas para engaste de precisión.",
-    "image": "https://www.grs.com/wp-content/uploads/2019/05/500-520-JURA-Master-Set.jpg",
-    "price": "$1,850.00"
+    "name": "GRAVERMEISTER®",
+    "category": "Sistemas de Aire",
+    "brand": "GRS",
+    "description": "Con GraverMeister, grabe profundamente en acero y delicadamente en oro, tale la madera sin esfuerzo, coloque piedras grandes y pequeñas con confianza, texte el metal rápidamente, esculpe piedra y más. Incluye compresor incorporado y control de pie.",
+    "image": "https://static.wixstatic.com/media/40e73e_3d6b929929664d77b1682770a39c8538~mv2.jpg/v1/fill/w_498,h_497,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3d6b929929664d77b1682770a39c8538~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 6,
+    "name": "SYSTEM 3 DELUXE PACKAGE",
+    "category": "Sistemas de Aire",
+    "brand": "GRS",
+    "description": "El sistema 3 produce pulsos de aire especiales para controlar su pieza de mano de impacto, que utiliza un diseño de pistón y puerto que oscila con aire comprimido. Es cómodo, liviano y ofrece una potencia de impacto que permite a los usuarios grabar metal, colocar piedras, martillos, texturas y tallar madera u otros materiales. La pieza de mano se mantiene fresca durante el uso e incluye el sistema de herramientas de cambio rápido GRS que ahorra tiempo.",
+    "image": "https://static.wixstatic.com/media/40e73e_face3e7e9d8e466bb7332cff1226efab~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_face3e7e9d8e466bb7332cff1226efab~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 7,
+    "name": "901 AT HANDPIECE",
+    "category": "Piezas de Mano",
+    "brand": "GRS",
+    "description": "Esta forma cómoda y compacta tiene una conexión de manguera lateral ajustable. Se adapta a la mayoría de las necesidades de grabado y ajuste de piedra, incluido el micro grabado, el trabajo de relieve profundo y el ajuste de elevación de cuentas / martillo. Fabricado en acero inoxidable totalmente tratado al calor.",
+    "image": "https://static.wixstatic.com/media/40e73e_3f2e2b350ba840eaa8cdb9cb5d54e612~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3f2e2b350ba840eaa8cdb9cb5d54e612~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 8,
+    "name": "MAGNUM AT HANDPIECE",
+    "category": "Piezas de Mano",
+    "brand": "GRS",
+    "description": "El Magnum supera los modelos anteriores que tienen el doble de longitud, a la vez que proporciona una excelente gama de potencia. También tiene un control preciso con capacidad de sombreado significativamente mejor que cualquier pieza de mano con esta gran potencia superior.",
+    "image": "https://static.wixstatic.com/media/40e73e_837514aaefe341d1bb6b75c1c24a7ca5~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_837514aaefe341d1bb6b75c1c24a7ca5~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 9,
+    "name": "MONARCH AT HANDPIEC",
+    "category": "Piezas de Mano",
+    "brand": "GRS",
+    "description": "Siéntase seguro ejecutando estilos de grabado fino, incluyendo bulino y billetes. Presenta una construcción de acero inoxidable con tratamiento térmico con una conexión de manguera lateral ajustable.",
+    "image": "https://static.wixstatic.com/media/40e73e_c071f067ce824523abc5921e0a4a3baa~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_c071f067ce824523abc5921e0a4a3baa~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 10,
+    "name": "PALM TOUCH KNOB FOR QC 901 HANDPIECE",
+    "category": "Piezas de Mano",
+    "brand": "GRS",
+    "description": "POSICIÓN DE MEJOR VENDEDOR",
+    "image": "https://static.wixstatic.com/media/40e73e_f8f96b84b2534b04b74380edf2aa49cb~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_f8f96b84b2534b04b74380edf2aa49cb~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 11,
+    "name": "PALM TOUCH KNOB FOR QC MAGNUM HANDPIECE",
+    "category": "Piezas de Mano",
+    "brand": "GRS",
+    "description": "El elemento Palm Touch crea una interfaz simple entre usted y su sistema de grabado neumático. Con el elemento táctil, ya no dependes de un control de pie. Ahora puedes tener una actuación precisa que se siente más natural.En lugar de utilizar un pedal, se aplica presión sobre el Palm Pad (extremo de goma) ubicado en la parte posterior de la pieza de mano para activarlo. El Palm Pad se puede personalizar para aumentar la sensibilidad. Barril de pieza de mano no incluido..",
+    "image": "https://static.wixstatic.com/media/40e73e_a767c6676715494ab15f19ab428cfef2~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_a767c6676715494ab15f19ab428cfef2~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 12,
+    "name": "PALM TOUCH KNOB FOR QC MONARCH HANDPIECE",
+    "category": "Piezas de Mano",
+    "brand": "GRS",
+    "description": "El elemento Palm Touch crea una interfaz simple entre usted y su sistema de grabado neumático. Con el elemento táctil, ya no dependes de un control de pie. Ahora puedes tener una actuación precisa que se siente más natural. En lugar de utilizar un pedal, se aplica presión sobre el Palm Pad (extremo de goma) ubicado en la parte posterior de la pieza de mano para activarlo. El Palm Pad se puede personalizar para aumentar la sensibilidad. Barril de pieza de mano no incluido.",
+    "image": "https://static.wixstatic.com/media/40e73e_ce8c2323eef64dfc947a1188fb7e7b4d~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_ce8c2323eef64dfc947a1188fb7e7b4d~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 13,
+    "name": "ALEXANDRE RING FIXTURE ADAPTER GRS ITEM #003-747",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Habilita el uso del accesorio de anillo de Alexandre (# 003-782) en el bloque estándar de GRS (# 003-530 y # 003-531).",
+    "image": "https://static.wixstatic.com/media/40e73e_93d5bc2762c94b729c8505dd3bdd40b7~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_93d5bc2762c94b729c8505dd3bdd40b7~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 14,
+    "name": "ADJUSTABLE HEIGHT BRACKET AND FIXED MOUNTING PLATE KIT GRS ITEM #004-666",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Agrega 4 ″ al soporte de trabajo. Ajustable en incrementos de 1/2 ″.",
+    "image": "https://static.wixstatic.com/media/40e73e_11c6939bc6124e7397c12f0a0e3904a2~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_11c6939bc6124e7397c12f0a0e3904a2~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 15,
+    "name": "520 ATTACHMENT SET BASE GRS ITEM #003-675",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Actualice el juego de madera Classic de 30 piezas con esta base de goma negra para el juego de accesorios 520 (# 003-520). La base se adapta a las treinta piezas disponibles en el juego de accesorios de madera original.",
+    "image": "https://static.wixstatic.com/media/40e73e_3fa3cfe6556b45ffb9f6e9a0160b8c6e~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3fa3cfe6556b45ffb9f6e9a0160b8c6e~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 16,
+    "name": "520 ATTACHMENT SET GRS ITEM #003-520",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Con una variedad de pines que se ajustan a las placas de mordaza superior de cada bloque GRS, los usuarios ahora pueden resolver instantáneamente los problemas de las piezas de trabajo y comenzar a trabajar antes. Incluye 4 palos Thermo-Loc de media, 8 pasadores pequeños, 4 pasadores cuadrados planos, 2 pasadores rectangulares de inserción, 4 pasadores redondos gruesos, 8 pasadores revestidos de goma y 2 pasadores de abrazadera de anillo con cara de cuero en la base moldeada.",
+    "image": "https://static.wixstatic.com/media/40e73e_ca306abe5ef14bb6971f1ebf4cb124fe~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_ca306abe5ef14bb6971f1ebf4cb124fe~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 17,
+    "name": "3/8″ SUPER PINS GRS ITEM #003-547",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Los pasadores de plástico sobre acero de alta resistencia son ideales para sujetar artículos más grandes sin estropear.",
+    "image": "https://static.wixstatic.com/media/40e73e_413285e6988e435a8ead9e339f67d5b6~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_413285e6988e435a8ead9e339f67d5b6~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 18,
+    "name": "1/4″ SUPER PINS GRS ITEM #003-546",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Los pasadores de plástico sobre acero de alta resistencia son ideales para sujetar artículos más grandes sin estropear.",
+    "image": "https://static.wixstatic.com/media/40e73e_0ead3132b54c4ff7baf897ee777cfdae~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_0ead3132b54c4ff7baf897ee777cfdae~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 19,
+    "name": "THERMO-LOC® STICKS, 5.0 LB (2.26 KG) GRS ITEM #003-666",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Algunos artículos necesitan un accesorio completamente personalizado para una sujeción segura. Thermo-Loc suaviza con calor hasta una consistencia similar a la arcilla flexible que puede formar alrededor de su trabajo. A temperatura ambiente, se endurece y sostiene de manera segura casi cualquier cosa, desde partes de armas de fuego hasta joyas. Thermo-Loc es fácil de usar. Simplemente siga estos pasos básicos: calentar, formar y mantener. Para obtener instrucciones detalladas sobre el uso, visite nuestro sitio web.",
+    "image": "https://static.wixstatic.com/media/40e73e_4dc157f39caa43f49a6603d6977d727c~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_4dc157f39caa43f49a6603d6977d727c~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 20,
+    "name": "THERMO-LOC® STICKS, 0.5 LB (225 GM) GRS ITEM #003-664",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Thermo-Loc es un material de polímero reutilizable especial que es rígido a temperatura ambiente, pero se vuelve flexible cuando se calienta o calienta. Desarrollado para contener elementos de forma irregular o frágiles, Thermo-Loc puede usarse en armas de fuego, cuchillos, madera y más. Simplemente siga estos pasos básicos: calentar, formar y mantener.",
+    "image": "https://static.wixstatic.com/media/40e73e_241e38d6898f4e2c9b9fdf4316b6dcaa~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_241e38d6898f4e2c9b9fdf4316b6dcaa~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 21,
+    "name": "THERMO-LOC® STARTER KIT GRS ITEM #003-667",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Thermo-Loc es un material de polímero reutilizable especial que es rígido a temperatura ambiente, pero se vuelve flexible cuando se calienta o calienta. Desarrollado para contener elementos de forma irregular o frágiles, Thermo-Loc puede usarse en armas de fuego, cuchillos, madera y más. Simplemente siga estos pasos básicos: calentar, formar y mantener.",
+    "image": "https://static.wixstatic.com/media/40e73e_d03dc31507d24869b64ae05583900c74~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d03dc31507d24869b64ae05583900c74~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 22,
+    "name": "THERMO-LOC VERSA-CLAMP KIT GRS ITEM #003-688",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Este nuevo kit ayuda a los usuarios a crear mordazas de dos partes personalizadas de Thermo-Loc para sujetar piezas especiales para grabado o ajuste de piedra. Incluye dos tamaños de ángulos de aluminio para producir accesorios Thermo-Loc suaves y precisos utilizando casi cualquier tornillo de banco. Las barras centrales especiales separan y alinean las mitades de la mandíbula entre sí. Un juego de tres inserciones de bujes de diferente longitud controla el grosor y la uniformidad de las mordazas. Este kit único simplifica el trabajo como nunca antes.",
+    "image": "https://static.wixstatic.com/media/40e73e_7a4d31a4fe08441d9ea505cf181c9aa1~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_7a4d31a4fe08441d9ea505cf181c9aa1~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 23,
+    "name": "BENCHMATE® ENCORE® QCX: BASIC PACKAGE GRS ITEM #004-831",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El GRS BenchMate Encore lanza la próxima generación de herramientas de sujeción de trabajo eficientes y versátiles. Estas actualizaciones innovadoras de un estándar de la industria proporcionan métodos mejores y más rápidos para el trabajo diario.",
+    "image": "https://static.wixstatic.com/media/40e73e_d8b8e870c28948c18ef42bf08dc49188~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d8b8e870c28948c18ef42bf08dc49188~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 24,
+    "name": "KNIFEMAKERS CONTOUR VISE GRS ITEM #003-622",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El Vise de Contorno de Knifemakers es una herramienta de sujeción de alta calidad diseñada para proporcionar un agarre firme y preciso al trabajar con materiales duros como el acero y el titanio.",
+    "image": "https://static.wixstatic.com/media/40e73e_24262f60a47243c78b91b1481e325650~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_24262f60a47243c78b91b1481e325650~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 25,
+    "name": "MAGNABLOCK + ATTACHMENT SET GRS ITEM #003-522",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El MagnaBlock proporciona estabilidad adicional al usar herramientas eléctricas, perseguir martillos y equipos similares. Un sistema masivo de rodamientos de bolas y rodillos permite una rotación suave sin desgaste ni holgura. El sistema interno de frenos de rotación permite al usuario ajustar fácilmente la resistencia de rotación. Mecanizado en acero inoxidable sólido con acabado satinado y mandíbulas negras para reducir el brillo y la fatiga visual.",
+    "image": "https://static.wixstatic.com/media/40e73e_e768d476e54e4c96b77bcb12ef6f7975~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_e768d476e54e4c96b77bcb12ef6f7975~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 26,
+    "name": "MAGNABLOCK GRS ITEM #003-021",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El MagnaBlock proporciona estabilidad adicional al usar herramientas eléctricas, perseguir martillos y equipos similares. Un sistema masivo de rodamientos de bolas y rodillos permite una rotación suave sin desgaste ni holgura. El sistema interno de frenos de rotación permite al usuario ajustar fácilmente la resistencia de rotación. Mecanizado en acero inoxidable sólido con acabado satinado y mandíbulas negras para reducir el brillo y la fatiga visual.",
+    "image": "https://static.wixstatic.com/media/40e73e_d51e241409fc43cfbb07572055a3fe9d~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d51e241409fc43cfbb07572055a3fe9d~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 27,
+    "name": "LOW PROFILE VISE GRS ITEM #003-615",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Encuentre la altura de trabajo correcta bajo un microscopio con esta prensa. Cuando una pieza de trabajo requiere una altura más baja, el tornillo de perfil bajo proporciona un espacio cómodo de 6 (150 mm) para una vista y posición adecuadas. Este tornillo tiene el mismo tamaño y capacidad de mandíbula que el MagnaBlock, pero es 1.5 más corto. La mitad superior de la prensa gira mientras que la mitad inferior permanece estacionaria. Agregue la base de la plataforma giratoria (# 003-616-V2) para la rotación completa de la prensa. Incluye tornillo de banco, placas de mordaza superior, 5 pasadores, base, 1 llave hexagonal de plástico, llave.",
+    "image": "https://static.wixstatic.com/media/40e73e_81bd3062709f4694a24d15f3cf5f4b8f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_81bd3062709f4694a24d15f3cf5f4b8f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 28,
+    "name": "THERMO-LOC JAW SET GRS ITEM #003-745",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Vuelva a colocar las mordazas en el tornillo de posicionamiento y la mesa BenCate QC con las mordazas Thermo-Loc.",
+    "image": "https://static.wixstatic.com/media/40e73e_3b04b5e3410c479cb5cffa5de22922a2~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3b04b5e3410c479cb5cffa5de22922a2~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 29,
+    "name": "STEPRISERS FOR MICROBLOCK® GRS ITEM #003-674",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Juego de 5. Cada uno agrega 0.5 ″ (12.7 mm) a la altura de trabajo.",
+    "image": "https://static.wixstatic.com/media/40e73e_e04d71ea7fd546c4b93010ace107ff6a~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_e04d71ea7fd546c4b93010ace107ff6a~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 30,
+    "name": "MICROBLOCK® SHORT JAW KIT GRS ITEM #003-651",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Reduzca la altura de las mordazas GRS MicroBlock o MicroBlock XL en 0.374 ″ (9.5 mm). Estas mandíbulas son perfectas para usar con el accesorio de anillo Alexandre y el soporte del anillo de identificación. Cuenta con los mismos orificios y roscas que las mordazas estándar MicroBlock y es ideal para el trabajo con microscopio.",
+    "image": "https://static.wixstatic.com/media/40e73e_211db082fc844c298c8a2154a5bd946b~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_211db082fc844c298c8a2154a5bd946b~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 31,
+    "name": "MICROBLOCK® RUBBER BASE GRS ITEM #003-439",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "La base de goma MicroBlock proporciona fricción y control adicionales. Compatible con todos los microbloques GRS.",
+    "image": "https://static.wixstatic.com/media/40e73e_5f33b8508eea47f6a21d6477e9996736~mv2_d_2066_2065_s_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_5f33b8508eea47f6a21d6477e9996736~mv2_d_2066_2065_s_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 32,
+    "name": "MICROBLOCK® XL & 520 ATTACHMENT SET GRS ITEM #003-774",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El MicroBlock XL es una prensa de 7 lb con un diámetro de bola de 100 mm. Es el tamaño perfecto entre el GRS MicroBlock y el bloque estándar de GRS.",
+    "image": "https://static.wixstatic.com/media/40e73e_c3a7f20fbbfa4e48a07106ff454bdbf1~mv2_d_2880_2880_s_4_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_c3a7f20fbbfa4e48a07106ff454bdbf1~mv2_d_2880_2880_s_4_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 33,
+    "name": "BENCHMATE® ENCORE® QC: STONE SETTER’S PACKAGE GRS ITEM #004-840",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El trabajo se mantiene en su lugar, pero se puede reposicionar fácilmente para adaptarse a una variedad de técnicas y trabajos. El nuevo brazo de control de calidad BenchMate Encore mide 6 ″ y tiene un recorte para ángulos de acceso superiores y mejor espacio al usar herramientas. Ajuste el brazo aliviado a una posición vertical más alta o más baja para obtener el máximo confort y control. El reposamanos se puede unir rápidamente a cualquier lado. El paquete de Stone Setter incluye el control de calidad BenchMate Encore con reposabrazos, una (1) placa de montaje fija (# 004-557), horizontal I.D. Soporte de anillo, vertical I.D. Soporte de anillo, kit de pasador de banco (# 004-556), paquete de accesorios de control de calidad Encore con 4 mordazas de plástico adicionales (# 004-558), 2 llaves (5/32 ″ Allen y 3/16 ″ hexagonal) y 5 tornillos de montaje.",
+    "image": "https://static.wixstatic.com/media/40e73e_0e014bc2221648f5a2bf013ac4a10ed0~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_0e014bc2221648f5a2bf013ac4a10ed0~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 34,
+    "name": "BENCHMATE® ENCORE® QCX: STONE SETTER’S PACKAGE GRS ITEM #004-832",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El GRS BenchMate Encore lanza la próxima generación de herramientas de sujeción de trabajo eficientes y versátiles. Estas actualizaciones innovadoras de un estándar de la industria proporcionan métodos mejores y más rápidos para el trabajo diario.",
+    "image": "https://static.wixstatic.com/media/40e73e_8d02a9e980954a7cb577467be0b8b677~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_8d02a9e980954a7cb577467be0b8b677~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 35,
+    "name": "LOW-FRICTION PTFE PAD FOR THERMO-LOC® GRS ITEM #003-291",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Esta almohadilla de material de PTFE antiadherente especial se puede utilizar con Thermo-Loc para calentamiento por microondas. Simplemente coloque sus palos Thermo-Loc en la almohadilla y colóquelos en el microondas como se muestra en las instrucciones incluidas.",
+    "image": "https://static.wixstatic.com/media/40e73e_a4768617e24d46e6b2dcd417ba53bc74~mv2.jpg/v1/fill/w_498,h_499,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_a4768617e24d46e6b2dcd417ba53bc74~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 36,
+    "name": "THERMO-LOC FORM BLOCK GRS ITEM #003-699",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Utilice este bloque de formularios Thermo-Loc de dos caras para crear dispositivos de sujeción personalizados que le brinden flexibilidad en un soporte. Para artículos como colgantes o etiquetas, cree soportes fijos utilizando las ranuras más pequeñas. Para artículos más largos como brazaletes, haga los soportes flexibles con bisagras fácilmente con la ranura más larga y el divisor. Estos accesorios de sujeción de trabajo personalizados funcionarán con la mayoría de los bloques de grabado y tornillos.",
+    "image": "https://static.wixstatic.com/media/40e73e_fb8e820294fe41d19f00298d2ef86ca7~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_fb8e820294fe41d19f00298d2ef86ca7~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 37,
+    "name": "THERMO-LOC® JAW KIT FOR LARGE VISES GRS ITEM #003-669",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Cree fácilmente mandíbulas Thermo-Loc personalizadas para sujetar casi cualquier pieza de trabajo. El kit incluye dos mordazas superiores maestras (una que gira), cuatro tiras de unión roscadas, tornillos y una llave. Compruebe los requisitos de la prensa antes de comprar para el ajuste correcto.",
+    "image": "https://static.wixstatic.com/media/40e73e_3574f51cbce045e8a4585dfa02b57852~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3574f51cbce045e8a4585dfa02b57852~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 38,
+    "name": "BPE HOBO NICKEL KIT GRS ITEM #011-476",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Este kit incluye herramientas convenientes para grabar níqueles hobo. Una plantilla de plástico simplifica marcar áreas del texto original que intenta mantener intacto. El dispositivo de sujeción de plástico encaja cómodamente en cualquier tornillo GRS para facilitar el trabajo. Proteger los níqueles terminados en uno de los tres casos de almacenamiento claro. Hobo niquel no incluido.",
+    "image": "https://static.wixstatic.com/media/40e73e_07c39cc769a44a748797cf1909238ce0~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_07c39cc769a44a748797cf1909238ce0~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 39,
+    "name": "CENTERING POST GRS ITEM #003-639",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Poste central para microscopios.",
+    "image": "https://static.wixstatic.com/media/40e73e_a504cbe8e63449d19cbc180ea872887f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_a504cbe8e63449d19cbc180ea872887f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 40,
+    "name": "CONTOUR VISE JAWS GRS ITEM #003-623",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Una forma innovadora y segura de sujetar piezas de forma irregular. Este inteligente juego de mordazas se ajusta a los orificios superiores de cualquier tornillo de grabado GRS. Las mandíbulas forradas con goma dura se ajustan automáticamente al agarre de casi cualquier forma con una fuerza de sujeción mínima. Esta es la forma rápida y segura de guardar elementos inusuales para grabados u otros trabajos importantes.",
+    "image": "https://static.wixstatic.com/media/40e73e_ac8ea968434746168a089519496b80ac~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_ac8ea968434746168a089519496b80ac~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 41,
+    "name": "FIXED MOUNTING PLATE GRS ITEM #004-557",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Para usar con estanterías, BenchMate y sistemas de tornillo multiuso.",
+    "image": "https://static.wixstatic.com/media/40e73e_fabf798b3b25436393e6636e0b94608e~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_fabf798b3b25436393e6636e0b94608e~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 42,
+    "name": "FOR GRS® VISES: LOW-FRICTION PTFE PAD GRS ITEM #044-165",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Por fin, una almohadilla casi sin fricción para usar en la base de la plataforma giratoria (# 003-616-V2) y las plataformas giratorias anteriores. Cuando se coloca entre el neumático y la superficie de la plataforma giratoria, permite que el usuario deslice libremente la prensa hacia cualquier lugar de la plataforma giratoria. Diseñado para trabajar en piezas más grandes para un fácil reposicionamiento bajo un microscopio. Hecho con un material especial de PTFE de baja fricción.",
+    "image": "https://static.wixstatic.com/media/40e73e_92bb6f019ae6412da59410a917865d0c~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_92bb6f019ae6412da59410a917865d0c~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 43,
+    "name": "GRS® TURNTABLE BASE BRAKE KIT GRS ITEM #003-343",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Permite una velocidad de rotación personalizada para la base giratoria de GRS (# 003-616-V2).",
+    "image": "https://static.wixstatic.com/media/40e73e_8744cf0182464d5f9dec7b0fdcb7e929~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_8744cf0182464d5f9dec7b0fdcb7e929~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 44,
+    "name": "SLIDE & LOCK MINI GRS ITEM #004-758",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El sistema Slide & Lock fue diseñado por JA Master Bench Jeweler Jeff Mathews para ayudar a los joyeros a trabajar de manera más eficiente. Simplemente abriendo la manija de bronce, puede reposicionar rápidamente la altura de su trabajo para ajustes fáciles o para pasar a la siguiente tarea. Esto ahorrará tiempo al moverse a través de los pasos de fabricación y configuración. El sistema es ideal para cualquier cosa que se adhiera a la placa de montaje fija GRS (# 004-557). Esto incluye cualquiera de los modelos BenchMate®, Block Shelf, Bench Pin, Multi-Purpose Vise, y más. El Slide & Lock Mini tiene capacidad para 5 ″ de viaje.",
+    "image": "https://static.wixstatic.com/media/40e73e_e3abd0117bd14375b572565f9370ba6e~mv2_d_1700_1701_s_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_e3abd0117bd14375b572565f9370ba6e~mv2_d_1700_1701_s_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 45,
+    "name": "SLIDE & LOCK ORIGINAL GRS ITEM #004-757",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El sistema Slide & Lock fue diseñado por JA Master Bench Jeweler Jeff Mathews para ayudar a los joyeros a trabajar de manera más eficiente. Simplemente abriendo la manija de bronce, puede reposicionar rápidamente la altura de su trabajo para ajustes fáciles o para pasar a la siguiente tarea. Esto ahorrará tiempo al moverse a través de los pasos de fabricación y configuración. El sistema es ideal para cualquier cosa que se adhiera a la placa de montaje fija GRS (# 004-557). Esto incluye cualquiera de los modelos BenchMate®, Block Shelf, Bench Pin, Multi-Purpose Vise, y más. El Slide & Lock Original tiene capacidad para 8 ″ de viaje.",
+    "image": "https://static.wixstatic.com/media/40e73e_7de9c277877f4f2c8da3a616c224f903~mv2_d_2771_2771_s_4_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_7de9c277877f4f2c8da3a616c224f903~mv2_d_2771_2771_s_4_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 46,
+    "name": "SLIDE & LOCK TRU-AXIS GRS ITEM #004-759",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El sistema Slide & Lock fue diseñado por JA Master Bench Jeweler Jeff Mathews para ayudar a los joyeros a trabajar de manera más eficiente. El modelo Tru-Axis fue diseñado específicamente para usuarios de microscopios. Este diseño permite la capacidad de mantener una altura establecida del deslizamiento y bloqueo, permitiendo que la porción Tru-Axis se desplace verticalmente hasta 4 ″ sin tocar el microscopio. Simplemente abriendo la manija de bronce, puede reposicionar rápidamente la altura de su trabajo para ajustes fáciles o para pasar a la siguiente tarea. Esto ahorrará tiempo al moverse a través de los pasos de fabricación y configuración. El sistema es ideal para cualquier cosa que se adhiera a la placa de montaje fija GRS (# 004-557). Esto incluye cualquiera de los modelos BenchMate®, Block Shelf, Bench Pin, Multi-Purpose Vise, y más. El Slide & Lock Tru-Axis tiene capacidad para 4 ″ de recorrido.",
+    "image": "https://static.wixstatic.com/media/40e73e_4104344ff65c41bf977ac47d6225a079~mv2_d_2827_2827_s_4_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_4104344ff65c41bf977ac47d6225a079~mv2_d_2827_2827_s_4_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 47,
+    "name": "SLIDE & LOCK TRU-AXIS ADAPTER GRS ITEM #004-753",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El sistema Slide & Lock fue diseñado por JA Master Bench Jeweler Jeff Mathews para ayudar a los joyeros a trabajar de manera más eficiente. El adaptador Tru-Axis fue diseñado para aquellos que poseen el sistema Slide & Lock original (# 004-757) y que trabajan bajo un microscopio. Una vez instalado, el usuario puede mantener una altura establecida de la guía de deslizamiento y bloqueo, permitiendo que el adaptador Tru-Axis viaje verticalmente hasta 4 ″ sin contacto con el microscopio.",
+    "image": "https://static.wixstatic.com/media/40e73e_df6b520aea1341d5a6e5d7f34b26a5c4~mv2_d_2740_2740_s_4_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_df6b520aea1341d5a6e5d7f34b26a5c4~mv2_d_2740_2740_s_4_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 48,
+    "name": "MICROBLOCK® GRS ITEM #003-683",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Diseñado para una combinación única de soporte de trabajo sólido en un tamaño pequeño y maniobrable, el MicroBlock tiene un sistema de mordaza autocentrante hecho para la colocación de piedras, pequeños grabados y otros trabajos de precisión. El sistema interno de frenos de rotación permite al usuario elegir la cantidad de resistencia de rotación de libre a bloqueada. Su bajo perfil es adecuado para trabajos de microscopio.",
+    "image": "https://static.wixstatic.com/media/40e73e_3cb9e23cbc9c4b0b8634b4935702600f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3cb9e23cbc9c4b0b8634b4935702600f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 49,
+    "name": "MICROBLOCK® + ATTACHMENT SET GRS ITEM #003-684",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Diseñado para una combinación única de soporte de trabajo sólido en un tamaño pequeño y maniobrable, el MicroBlock tiene un sistema de mordaza autocentrante hecho para la colocación de piedras, pequeños grabados y otros trabajos de precisión. El sistema interno de frenos de rotación permite al usuario elegir la cantidad de resistencia de rotación de libre a bloqueada. Su bajo perfil es adecuado para trabajos de microscopio.",
+    "image": "https://static.wixstatic.com/media/40e73e_6bd286d0e7364b73b2597f59a992d7d9~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_6bd286d0e7364b73b2597f59a992d7d9~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 50,
+    "name": "STANDARD BLOCK GRS ITEM #003-530",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Este tornillo es una opción económica que satisface la necesidad de muchos grabadores y artesanos. Con un sistema de cojinete de doble bola para una rotación suave sin desgaste ni holgura, el bloque estándar combina una calidad excepcional con el valor para la sujeción del trabajo. Controle la resistencia rotacional con un sistema interno de frenos rotativos. Mecanizado en acero inoxidable sólido con acabado satinado y mandíbulas negras para reducir el brillo y la fatiga visual.",
+    "image": "https://static.wixstatic.com/media/40e73e_735a3eb0f79b40508e08fd64a3233b0f~mv2.jpg/v1/fill/w_498,h_497,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_735a3eb0f79b40508e08fd64a3233b0f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 51,
+    "name": "STANDARD BLOCK + ATTACHMENT SET GRS ITEM #003-531",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Este tornillo es una opción económica que satisface la necesidad de muchos grabadores y artesanos. Con un sistema de cojinete de doble bola para una rotación suave sin desgaste ni holgura, el bloque estándar combina una calidad excepcional con el valor para la sujeción del trabajo. Controle la resistencia rotacional con un sistema interno de frenos rotativos. Mecanizado en acero inoxidable sólido con acabado satinado y mandíbulas negras para reducir el brillo y la fatiga visual.",
+    "image": "https://static.wixstatic.com/media/40e73e_a0718118a33a4e978b33736b06ff21f7~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_a0718118a33a4e978b33736b06ff21f7~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 52,
+    "name": "EXTRA PLASTIC JAWS GRS ITEM #004-558",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Para usar con el BenchMate. Paquete de diez mandíbulas de plástico.",
+    "image": "https://static.wixstatic.com/media/40e73e_83d171a3e07645e994a652cc74848522~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_83d171a3e07645e994a652cc74848522~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 53,
+    "name": "BENCH PIN KIT GRS ITEM #004-556",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Desliza dentro y fuera de una placa de montaje fija (# 004-557). Pasador de madera reemplazable. Se puede utilizar con el sistema BenchMate para facilitar el trabajo de banco.",
+    "image": "https://static.wixstatic.com/media/40e73e_575091674b774e7c847087b205f174ea~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_575091674b774e7c847087b205f174ea~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 54,
+    "name": "ATTACHMENT SET FOR MULTI-PURPOSE VISE GRS ITEM #003-520MPV",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Esta variedad de pasadores y varillas Thermo-Loc ayuda a sostener incluso elementos irregulares o delicados cuando se usa el tornillo de varios usos GRS.",
+    "image": "https://static.wixstatic.com/media/40e73e_6cd987fac63b4e2fa2b157a197973a15~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_6cd987fac63b4e2fa2b157a197973a15~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 55,
+    "name": "BLOCK VISE SHELF SUPPORT GRS ITEM #003-649",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Agrega estabilidad para reducir la vibración cuando se usa un estante de bloques.",
+    "image": "https://static.wixstatic.com/media/40e73e_ac0c85579c334841b9e00a4a136d5cd3~mv2.jpg/v1/fill/w_498,h_499,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_ac0c85579c334841b9e00a4a136d5cd3~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 56,
+    "name": "GRS® METAL FORMER GRS ITEM #004-725",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Forma fácilmente pulseras de estilo 'C' con la pulsera GRS anterior. Forme tiras planas de metal en una perfecta forma de 'C' después de grabar el diseño. La copa de la matriz contiene un material de aleación suave que soporta la presión de la matriz, pero no distorsiona el trabajo grabado. El material del cubilete se puede reformar calentando, cuando sea necesario.",
+    "image": "https://static.wixstatic.com/media/40e73e_0e1a6b88e19541e1bf10c62347c4c22a~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_0e1a6b88e19541e1bf10c62347c4c22a~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 57,
+    "name": "INSULATED SOLDERING CLAMP GRS ITEM #004-592",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "La abrazadera de soldadura aislada trabaja con el sistema BenchMate para ayudar en el proceso de soldadura. Max 600˚F (316˚C).",
+    "image": "https://static.wixstatic.com/media/40e73e_9639cfc7dbd545eaa49fb83b1d9a5ef2~mv2.jpg/v1/fill/w_498,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_9639cfc7dbd545eaa49fb83b1d9a5ef2~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 58,
+    "name": "INSIDE RING MANDREL GRS ITEM #004-589",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Incluye cuerpo de soporte, 7 boquillas, tornillo de expansión y llave. Muchos anillos anchos, delicados o inusuales son difíciles de sostener con una pinza exterior. Este accesorio agrega capacidad de retención de anillo interior a cualquier BenchMate.",
+    "image": "https://static.wixstatic.com/media/40e73e_d1d0053c7e5c42019684c51cbebaf370~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d1d0053c7e5c42019684c51cbebaf370~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 59,
+    "name": "REPLACEMENT METRIC CUTTER KIT FOR RING SIZE CUTTER GRS ITEM #004-600",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Incluye 9 cortadores",
+    "image": "https://static.wixstatic.com/media/40e73e_313a1b910c2b4db98132b33d59895bea~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_313a1b910c2b4db98132b33d59895bea~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 60,
+    "name": "PITCHCUP GRS ITEM #004-660",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El PitchCup está lleno de un material especial que se ablanda cuando se calienta para contener piezas frágiles, pequeñas o irregulares para el grabado, la colocación de la piedra y el acabado. Se adapta a la mayoría de las visas, bloques y el GRS BenchMate.",
+    "image": "https://static.wixstatic.com/media/40e73e_1bb41b9e6c824e8da66d2b6796899420~mv2.jpg/v1/fill/w_498,h_497,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_1bb41b9e6c824e8da66d2b6796899420~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 61,
+    "name": "PITCHCUP (NO PITCH INCLUDED) GRS ITEM #004-659",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Rellenar con brea o GRS Thermo-Loc. Usar con Pitch (# 002-230). No se incluye ningún tono con este producto.",
+    "image": "https://static.wixstatic.com/media/40e73e_387524c0e38c44b8947a9616bf5c8d97~mv2.jpg/v1/fill/w_498,h_497,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_387524c0e38c44b8947a9616bf5c8d97~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 62,
+    "name": "PITCHBOWL GRS ITEM #003-022",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "El PitchBowl está lleno de un material especial que se ablanda cuando se calienta para contener piezas pequeñas, frágiles o irregulares para el grabado, ajuste y acabado. Se adapta a cualquier tornillo de banco o grabado.",
+    "image": "https://static.wixstatic.com/media/40e73e_6046e7a4e0bd4dbda029e9dc0d3fb204~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_6046e7a4e0bd4dbda029e9dc0d3fb204~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 63,
+    "name": "MULTI-PURPOSE VISE GRS ITEM #004-628",
+    "category": "Microblock",
+    "brand": "GRS",
+    "description": "Esta exclusiva prensa de acero de precisión se ajusta para la inclinación y rotación en dos ejes, proporcionando una comodidad y eficiencia óptimas. El tornillo multiuso utiliza el versátil sistema de montaje BenchMate de “elevación con y sin elevación”. A diferencia de otras prensas de banco, puede ajustarlo a cualquier ángulo porque se inclina y gira en dos ejes. Su trabajo se ajusta a usted, agregando confort y eficiencia a la configuración de su banco. Al utilizar los mismos accesorios que un bloque de grabado GRS, el tornillo multiuso resuelve docenas de problemas de retención. Está fabricado con precisión de acero para una confiabilidad resistente. Incluye montaje de tornillo y llave. Las mordazas miden 2.3 de ancho, 1.6 de alto y están abiertas a 1.8 ",
+    "image": "https://static.wixstatic.com/media/40e73e_9b58a85d50684158a9129e3ca78bee1b~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_9b58a85d50684158a9129e3ca78bee1b~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 64,
+    "name": "GRS® FOOT CONTROL FOR ULTRA 850 ROTARY SYSTEM GRS ITEM #004-863",
+    "category": "Sistemas de rotacion",
+    "brand": "GRS",
+    "description": "Este pedal funciona como un interruptor de encendido / apagado para la pieza de mano giratoria Ultra 850. Le permite al usuario la eficiencia de no tener que encenderlo / apagarlo a través de la perilla en la máquina.",
+    "image": "https://static.wixstatic.com/media/40e73e_f914e38234914061a93658d27949ef32~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_f914e38234914061a93658d27949ef32~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 65,
+    "name": "STAND ASSEMBLY FOR ULTRA 850 ROTARY SYSTEM GRS ITEM #004-862",
+    "category": "Sistemas de rotacion",
+    "brand": "GRS",
+    "description": "Este conveniente soporte funciona con el sistema rotativo Ultra 850 para proporcionar un soporte resistente para el regulador. Conecte su suministro de aire a la entrada para la operación.",
+    "image": "https://static.wixstatic.com/media/40e73e_7dc912b48f7745cc8ed40d11c6f5ebe3~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_7dc912b48f7745cc8ed40d11c6f5ebe3~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 66,
+    "name": "NSK EMAX EVOLUTION FOOT CONTROL GRS ITEM #024-164",
+    "category": "Sistemas de rotacion",
+    "brand": "GRS",
+    "description": "Opcional. Interruptor on / off y control de velocidad variable.",
+    "image": "https://static.wixstatic.com/media/40e73e_3b4d3ccfa3fc454491bafc75ea8ac540~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3b4d3ccfa3fc454491bafc75ea8ac540~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 67,
+    "name": "ULTRA 850 ROTARY SYSTEM + SYSTEM 3 FOOT CONTROL GRS ITEM #004-914",
+    "category": "Sistemas de rotacion",
+    "brand": "GRS",
+    "description": "Esta pieza de mano giratoria gira 320,000 RPM para grabar, decorar y pulir sin esfuerzo en casi cualquier material. Solo acepta vástagos de 1/16 ″ (1,6 mm) de diámetro. Se conecta directamente a un GraverMach® AT, GraverMax® G8 o cualquier suministro de aire regulado.",
+    "image": "https://static.wixstatic.com/media/40e73e_bf79dab3226a4e97bff1553996028bb1~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_bf79dab3226a4e97bff1553996028bb1~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 68,
+    "name": "GRS® ULTRA 850 HANDPIECE GRS ITEM #004-850",
+    "category": "Sistemas de rotacion",
+    "brand": "GRS",
+    "description": "Esta pieza de mano giratoria da vuelta a 320,000 RPM para grabar, decorar y pulir sin esfuerzo en casi cualquier material. Está libre de vibraciones, ruidos y formas contorneadas para mayor comodidad. No requiere lubricación. Sólo acepta vástagos de 1/16 ″ (1,6 mm) de diámetro.",
+    "image": "https://static.wixstatic.com/media/40e73e_46b3187d3d954bd5b347d3d69da7d250~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_46b3187d3d954bd5b347d3d69da7d250~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 69,
+    "name": "NSK EMAX EVOLUTION STANDARD SET WITH LEVER TYPE HANDPIECE, 120 V GRS ITEM #002-",
+    "category": "Sistemas de rotacion",
+    "brand": "GRS",
+    "description": "El NSK Emax EVOlution cuenta con un sistema de motor sin escobillas para un funcionamiento suave y silencioso con un par sorprendente y una rotación sin vibraciones. Este sistema mantiene velocidades constantes incluso bajo carga, y un interruptor electrónico apaga el motor para protección en caso de una sobrecarga. La unidad de control cuenta con un control de volumen de control de velocidad de 4.75 de diámetro con una pantalla digital de velocidad del motor, un medidor de carga codificado por colores y una función de velocidad de memoria. Modelo de 120 voltios.",
+    "image": "https://static.wixstatic.com/media/40e73e_4034a4442adf4a089a02c13ab4c94920~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_4034a4442adf4a089a02c13ab4c94920~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 70,
+    "name": "C-MAX TAPERED ROUND — #51, 0.4 MM GRS ITEM #022-681",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Longitud: 1.8 ″ (45.72 mm). Diámetro del vástago: 0.125 ″ (3.175 mm). Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_07dc4dbedead4cfdb4b8f8f9060ebca1~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_07dc4dbedead4cfdb4b8f8f9060ebca1~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 71,
+    "name": "C-MAX TAPERED ROUND — #50, 0.2 MM GRS ITEM #022-680",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Longitud: 1.8 ″ (45.72 mm). Diámetro del vástago: 0.125 ″ (3.175 mm). Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_bbb73708a4774cbf849564dfe665332e~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_bbb73708a4774cbf849564dfe665332e~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 72,
+    "name": "C-MAX V-POINT — 120° GRS ITEM #022-619",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_982266a2cedc4b8a931aff95a3605d88~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_982266a2cedc4b8a931aff95a3605d88~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 73,
+    "name": "C-MAX V-POINT — 105° GRS ITEM #022-618",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_d87d4105a47646c7a244961d41f50cc7~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d87d4105a47646c7a244961d41f50cc7~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 74,
+    "name": "C-MAX V-POINT — 90° GRS ITEM #022-617",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_87d8961cdcd7453db4e6a78b687fc028~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_87d8961cdcd7453db4e6a78b687fc028~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 75,
+    "name": "C-MAX V-POINT — 75° GRS ITEM #022-616",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_26358432b7714e2ca69b855ad44eda24~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_26358432b7714e2ca69b855ad44eda24~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 76,
+    "name": "C-MAX V-POINT, 60° PRESHAPED CARBIDE GRS ITEM #022-615",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Use con el portaherramientas de control de calidad para 1/8 redondo.",
+    "image": "https://static.wixstatic.com/media/40e73e_497f4e00cb7547c7839aab79471fd605~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_497f4e00cb7547c7839aab79471fd605~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 77,
+    "name": "C-MAX NARROW BEVEL — 105° GRS ITEM #022-668",
+    "category": "C-max Buriles / Gravers",
+    "brand": "GRS",
+    "description": "Longitud: 1.8 (45.72 mm). Diámetro: 0.125 ″ (3.175 mm). Use con el portaherramientas de control de calidad para 1/8 redondo (# 004-873).",
+    "image": "https://static.wixstatic.com/media/40e73e_e440cd2c762546a186ae634db77e0f07~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_e440cd2c762546a186ae634db77e0f07~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 78,
+    "name": "ALEXANDRE RING FIXTURE GRS ITEM #003-782",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Diseñada por el afamado especialista en diamantes Alexandre Sidorov, esta solución de trabajo es el resultado de muchos años de dominio y enseñanza de técnicas de colocación de piedras. El accesorio para anillos Alexandre se monta directamente en el GRS MicroBlock®, lo que le brinda al usuario opciones ilimitadas para los anillos de ajuste de piedra. MicroBlock® no incluido.",
+    "image": "https://static.wixstatic.com/media/40e73e_d7263d4491aa46108fd77319357aeff2~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d7263d4491aa46108fd77319357aeff2~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 79,
+    "name": "ALEXANDRE STONE SETTER’S PACKAGE GRS ITEM #003-783",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Diseñada por el reconocido especialista en diamantes Alexandre Sidorov, esta solución de trabajo es el resultado de muchos años de dominio y enseñanza de técnicas de colocación de piedras. El accesorio para anillos Alexandre se monta directamente en el GRS MicroBlock®, lo que le brinda al usuario opciones ilimitadas para configurar los anillos. El paquete Stone Setter viene completo con el juego de accesorios Alexandre y un GRS MicroBlock®.",
+    "image": "https://static.wixstatic.com/media/40e73e_a834d22dd2454947ad5b1ff7ec2b7929~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_a834d22dd2454947ad5b1ff7ec2b7929~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 80,
+    "name": "EXTRA COLLET SET GRS ITEM #004-616",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "El juego es compatible con el soporte del anillo interior horizontal (# 004-679), el soporte del anillo interior vertical (# 004-847) y el mandril del anillo interior (# 004-589, pág. 27).",
+    "image": "https://static.wixstatic.com/media/40e73e_2ece44783fc14f2783d9822d1e91f47d~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_2ece44783fc14f2783d9822d1e91f47d~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 81,
+    "name": "HANDHELD RING CLAMP GRS ITEM #004-625",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Las inserciones de mordaza reemplazables sostienen los anillos de manera segura y sin estropear la piedra, la limadura y el acabado. Es similar al soporte BenchMate, pero más liviano para uso manual. Mecanizado en aluminio o acero macizo.",
+    "image": "https://static.wixstatic.com/media/40e73e_5396e90de5554e9ebc484fc8ecd56ab0~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_5396e90de5554e9ebc484fc8ecd56ab0~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 82,
+    "name": "ID RING HOLDER GRS ITEM #004-735",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Debido a su facilidad de portabilidad, el soporte de anillo de identificación es una excelente alternativa a las opciones más voluminosas y caras. Este soporte de anillo es una buena opción económica cuando los usuarios necesitan una solución de sujeción de mano de obra simple, funcional y de calidad. Para usar con cualquier bloque o tornillo GRS.",
+    "image": "https://static.wixstatic.com/media/40e73e_d9072e95a51a4d43ab242c643cceefda~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_d9072e95a51a4d43ab242c643cceefda~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 83,
+    "name": "ID RING HOLDER EXPANSION KIT GRS ITEM #004-755",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "El kit de expansión del soporte del anillo de identificación incluye una barra de tiro más larga y un cono de doble cara para acomodar dos mandriles idénticos a la vez, lo que permite a los usuarios trabajar en dos anillos al mismo tiempo o en un anillo más ancho.",
+    "image": "https://static.wixstatic.com/media/40e73e_081bb42b809040db9f1296d6dafe296e~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_081bb42b809040db9f1296d6dafe296e~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 84,
+    "name": "ID RING HOLDER PARTS KIT GRS ITEM #004-707",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Úselo como reemplazo para un soporte de anillo de identificación GRS existente (# 004-735) o para hacer un paquete completo para un conjunto de marco exterior para soporte de anillo de identificación (# 004-754).",
+    "image": "https://static.wixstatic.com/media/40e73e_3538d18a44b2440ba6af80bbf42cc01d~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_3538d18a44b2440ba6af80bbf42cc01d~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 85,
+    "name": "INSIDE RING ENGRAVING HOLDER GRS ITEM #004-697",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "El soporte único asegura los anillos, permitiendo un fácil acceso al interior. Puede ser manual o montado en una prensa. Hecho por GRS de acero sólido para durar toda la vida.",
+    "image": "https://static.wixstatic.com/media/40e73e_536f28a406744296a7e725ead523be0e~mv2_d_1200_1200_s_2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_536f28a406744296a7e725ead523be0e~mv2_d_1200_1200_s_2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 86,
+    "name": "INSIDE RING HOLDER, HORIZONTAL GRS ITEM #004-679",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Estos accesorios sujetan de forma segura los anillos desde el interior, lo que permite un fácil acceso para el ajuste de la piedra y el grabado del anillo. Usar en cualquier bloque de GRS y en la mayoría de las prensas. Ambos incluyen cuerpo de soporte, siete collarines, cono de expansión, tornillos y llave.",
+    "image": "https://static.wixstatic.com/media/40e73e_7836ba9cab6b40fba4536e4097d95098~mv2.jpg/v1/fill/w_498,h_497,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_7836ba9cab6b40fba4536e4097d95098~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 87,
+    "name": "INSIDE RING HOLDER, VERTICAL GRS ITEM #004-847",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Estos accesorios sujetan de forma segura los anillos desde el interior, lo que permite un fácil acceso para el ajuste de la piedra y el grabado del anillo. Usar en cualquier bloque de GRS y en la mayoría de las prensas. Ambos incluyen cuerpo de soporte, siete collarines, cono de expansión, tornillos y llave.",
+    "image": "https://static.wixstatic.com/media/40e73e_ada9ab1ef3114e2181978e311e8ff7e0~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_ada9ab1ef3114e2181978e311e8ff7e0~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 88,
+    "name": "OUTSIDE FRAME ASSEMBLY FOR ID RING HOLDER GRS ITEM #004-754",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Obtenga una mejor separación y más ángulos para el grabado y el ajuste de la piedra mientras trabaja en anillos. Los tornillos de fijación se pueden quitar (como se muestra) para colocarlos libremente o instalarlos para ayudar a colocar el marco en un tornillo de banco. Úselo con el soporte del anillo de identificación (# 004-735) o con el kit de piezas del soporte del anillo de identificación (# 004-707). Monte el marco en un tornillo de banco en múltiples ángulos para grabar en el lado de un anillo o en el borde exterior. Los tornillos de fijación se pueden usar para ayudar a colocar el marco en la prensa o se pueden quitar para colocarlos libremente.",
+    "image": "https://static.wixstatic.com/media/40e73e_181ded2b41214c54a884acdc2de80e2a~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_181ded2b41214c54a884acdc2de80e2a~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 89,
+    "name": "RING CLAMPS GRS ITEM #003-550",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "Estas abrazaderas de anillo con revestimiento de cuero permiten que los bloques GRS sujeten los anillos de manera segura desde el exterior para colocar piedras, cortes brillantes, grabado y acabado mientras se usa un bloque. Incluido en el conjunto de accesorios 520 (# 003-520).",
+    "image": "https://static.wixstatic.com/media/40e73e_e625f68f266d47f2bf4d2a65e3c7770e~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_e625f68f266d47f2bf4d2a65e3c7770e~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 90,
+    "name": "SET OF 10 MANDRELS FOR ID RING HOLDER GRS ITEM #004-705",
+    "category": "Soporte / Aporte para Anillos",
+    "brand": "GRS",
+    "description": "El soporte de anillo ID de GRS lleva los accesorios de anillo a un nuevo nivel. Los conos de expansión aseguran una presión igual en ambos lados del mandril al agarrar el diámetro interior del anillo.",
+    "image": "https://static.wixstatic.com/media/40e73e_002fdf65e0924de1967708848eb6734f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_002fdf65e0924de1967708848eb6734f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 91,
+    "name": "AIRTACT CONTROL SYSTEM GRS ITEM #004-935",
+    "category": "Mejoras a sistemas",
+    "brand": "GRS",
+    "description": "El sistema de control Airtact hace que el cambio entre el control de manos y pies sea fácil y rápido. Agregue este sistema a un sistema GRS Air compatible para un control actualizado.",
+    "image": "https://static.wixstatic.com/media/40e73e_126edd45bb6c4c759df4e11e043fb873~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_126edd45bb6c4c759df4e11e043fb873~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 92,
+    "name": "HIGH-SPEED VALVE KIT GRS ITEM #001-893",
+    "category": "Mejoras a sistemas",
+    "brand": "GRS",
+    "description": "Actualiza los GraverMeisters anteriores a los impactos más rápidos de 1600-2400 por minuto para cortes más suaves, mayor vida útil de la herramienta y menor tiempo de trabajo.",
+    "image": "https://static.wixstatic.com/media/40e73e_aef8b299ac4644b994489ea0d961bbfb~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_aef8b299ac4644b994489ea0d961bbfb~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 93,
+    "name": "AIRTACT FILTER HOOK-UP KIT FOR GRAVERMAX GRS ITEM #004-971",
+    "category": "Mejoras a sistemas",
+    "brand": "GRS",
+    "description": "Este kit se instala en la línea de suministro de aire que va al Classic GraverMax antes de que alcance el filtro / regulador de serie montado en la parte posterior de la unidad Classic Max. Este kit es necesario para que Airtact se ejecute en las máquinas Classic GraverMax.",
+    "image": "https://static.wixstatic.com/media/40e73e_10b6c9e21fa4431396d953133331fe84~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_10b6c9e21fa4431396d953133331fe84~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 94,
+    "name": "AIRTACT FILTER HOOK-UP KIT FOR GRAVERMATE® GRS ITEM #004-972",
+    "category": "Mejoras a sistemas",
+    "brand": "GRS",
+    "description": "Este kit se instala en la línea de suministro de aire que va al GraverMate antes de llegar al filtro / regulador de serie montado en la parte posterior de la unidad Max / Mate. Este kit es necesario para que Airtact se ejecute en las máquinas GraverMate.",
+    "image": "https://static.wixstatic.com/media/40e73e_7e386b9e96e449c7a915babb5286ea09~mv2.jpg/v1/fill/w_498,h_306,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_7e386b9e96e449c7a915babb5286ea09~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 95,
+    "name": "NTG ROUND — 2.8 MM",
+    "category": "Gravadores NTG",
+    "brand": "GRS",
+    "description": "Con puntas con forma de fábrica, estos gravers ahorran tiempo al eliminar la configuración inicial. Acero para herramientas de cromo de alta velocidad.",
+    "image": "https://static.wixstatic.com/media/40e73e_da46c6e2626545f9bc3cce4e5818f7a2~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_da46c6e2626545f9bc3cce4e5818f7a2~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 96,
+    "name": "NTG ROUND — 2.6 MM",
+    "category": "Gravadores NTG",
+    "brand": "GRS",
+    "description": "Con puntas con forma de fábrica, estos gravers ahorran tiempo al eliminar la configuración inicial. Acero para herramientas de cromo de alta velocidad.",
+    "image": "https://static.wixstatic.com/media/40e73e_aaa721f0fb1d42449d0e1fd5accd1a25~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_aaa721f0fb1d42449d0e1fd5accd1a25~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 97,
+    "name": "NTG ROUND — 2.4 MM",
+    "category": "Gravadores NTG",
+    "brand": "GRS",
+    "description": "Con puntas con forma de fábrica, estos gravers ahorran tiempo al eliminar la configuración inicial. Acero para herramientas de cromo de alta velocidad.",
+    "image": "https://static.wixstatic.com/media/40e73e_b6605a08a5a94d2bab24ed947831e25b~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_b6605a08a5a94d2bab24ed947831e25b~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 98,
+    "name": "NTG ROUND — 2.2 MM",
+    "category": "Gravadores NTG",
+    "brand": "GRS",
+    "description": "Con puntas con forma de fábrica, estos gravers ahorran tiempo al eliminar la configuración inicial. Acero para herramientas de cromo de alta velocidad.",
+    "image": "https://static.wixstatic.com/media/40e73e_aaa721f0fb1d42449d0e1fd5accd1a25~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_aaa721f0fb1d42449d0e1fd5accd1a25~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 99,
+    "name": "PROTECTIVE GLASS COVER FOR MEIJI MICROSCOPES GRS ITEM #003-350",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Funda protectora para lentes de microscopio GRS / Meiji EMZ. Utilice esta cubierta de vidrio en lugar de la lente del objetivo.",
+    "image": "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_498,h_499,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 100,
+    "name": "MOUNT KIT FOR ACROBAT® CLASSIC STAND / EMZ-8TR GRS ITEM #003-637",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Para usar con EMZ-8TR y Acrobat Stand. Pieza requerida para EMZ-8TR.",
+    "image": "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 101,
+    "name": "HEADREST KIT FOR ORIGINAL AND ACROBAT® STANDS GRS ITEM #003-584",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Reduce la distensión del cuello y la espalda. Incluido con el soporte Acrobat (# 003-630).",
+    "image": "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 102,
+    "name": "C-MOUNT WITH 0.60X LENS GRS ITEM #003-626",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Las cámaras de video con una montura de lente tipo 'C' (rosca de 1 ″ de diámetro) se pueden montar usando accesorios de montura C.",
+    "image": "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 103,
+    "name": "BALL PIVOT CAMERA MOUNT FOR ACROBAT® CLASSIC STAND GRS ITEM #003-678",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Fije a cada lado del soporte de GRS Acrobat para un montaje liviano sin agregar longitud al bloque de enfoque. Obtenga una amplia gama de opciones de posicionamiento con los componentes de montaje de bola RAM instalados; otros productos RAM instalables por el usuario se pueden comprar por separado.",
+    "image": "https://static.wixstatic.com/media/40e73e_951aa77a990e414bbc116fbbea2f186a~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_951aa77a990e414bbc116fbbea2f186a~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 104,
+    "name": "20X EYEPIECES FOR MEIJI EMZ-5 GRS ITEM #022-106",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Opcionales oculares 20X de alta potencia para el microscopio EMZ-5 Meiji. Se vende en pareja. El microscopio se vende por separado.",
+    "image": "https://static.wixstatic.com/media/40e73e_b7d219497f0b45269fd3d6562fc24b32~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_b7d219497f0b45269fd3d6562fc24b32~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 105,
+    "name": "10X EYEPIECES FOR MEIJI EMZ-8TR GRS ITEM #003-566",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Pieza requerida para EMZ-8TR.",
+    "image": "https://static.wixstatic.com/media/40e73e_88b855b4a02d45f2aad500c32d1db76f~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_88b855b4a02d45f2aad500c32d1db76f~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 106,
+    "name": "10X EYEPIECES FOR MEIJI EMZ-5 (EYEGLASSES VERSION) GRS ITEM #003-648",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Diseñado para personas que usan gafas. Te da una vista completa y protege tus lentes. GRS presenta una opción interesante para cualquier microscopio que use oculares Meiji MA502. Estos oculares 10x compatibles con gafas GRS son reemplazos directos para los oculares Meiji 10X estándar.",
+    "image": "https://static.wixstatic.com/media/40e73e_0ecd01cd86fd460fbae6d9bb92f974fc~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_0ecd01cd86fd460fbae6d9bb92f974fc~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 107,
+    "name": "0.75X OBJECTIVE LENS FOR MEIJI EMZ-5 GRS ITEM #024-131",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Extiende la distancia de trabajo Meiji EMZ-5 a 97 mm.",
+    "image": "https://static.wixstatic.com/media/40e73e_77d4b16b3b784b67be7a9782722864cb~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_77d4b16b3b784b67be7a9782722864cb~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 108,
+    "name": "0.50X OBJECTIVE LENS FOR MEIJI EMZ-8TR GRS ITEM #003-614",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Distancia de trabajo: 6.85 ″ (174 mm). Pieza requerida para EMZ-8TR.",
+    "image": "https://static.wixstatic.com/media/40e73e_dfcb43ef115a428f84680646347f28b3~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_dfcb43ef115a428f84680646347f28b3~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 109,
+    "name": "0.50X OBJECTIVE LENS FOR MEIJI EMZ-5 GRS ITEM #003-567",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Amplía la distancia de trabajo Meiji EMZ-5.",
+    "image": "https://static.wixstatic.com/media/40e73e_da088735ecb041fc925e7f90e97688e7~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_da088735ecb041fc925e7f90e97688e7~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 110,
+    "name": "0.30X OBJECTIVE LENS FOR MEIJI EMZ-5 GRS ITEM #003-591",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Extiende su distancia de trabajo a más de 9 ″ (251 mm).",
+    "image": "https://static.wixstatic.com/media/40e73e_77783f163cf94ac7b4e511e6f40b5091~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_77783f163cf94ac7b4e511e6f40b5091~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 111,
+    "name": "HEADREST KIT FOR LEICA GRS ITEM #003-660",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Se adhiere a la Leica A60 para seguir el movimiento del alcance mientras promueve la ergonomía adecuada. Leica A60 no incluido.",
+    "image": "https://static.wixstatic.com/media/40e73e_95f739e2699242da9279e1922083ff74~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_95f739e2699242da9279e1922083ff74~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 112,
+    "name": "GRS® LOGO DUST COVER FOR ACROBAT® VERSA / LEICA® GRS ITEM #003-729",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Proteja su microscopio del polvo con esta cubierta duradera.",
+    "image": "https://static.wixstatic.com/media/40e73e_23ebad36a8094e9184b8bf1bc6639f14~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_23ebad36a8094e9184b8bf1bc6639f14~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 113,
+    "name": "GRS HORIZONTAL “F” MOUNT GRS ITEM #023-238",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "Esta solución ultra resistente es una excelente alternativa al montaje de abrazadera provisto con la Leica A60F. Use los tornillos provistos para fijar de forma segura el soporte del brazo flexible a la parte superior del banco.",
+    "image": "https://static.wixstatic.com/media/40e73e_f6056da94d7f42b2b9d3f472ae4059f6~mv2_d_1200_1200_s_2.jpeg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_f6056da94d7f42b2b9d3f472ae4059f6~mv2_d_1200_1200_s_2.jpeg",
+    "price": "$0.00"
+  },
+  {
+    "id": 114,
+    "name": "DOUBLE DOCUMENT HOLDER KIT FOR ACROBAT® VERSA GRS ITEM #003-632",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "El kit de soporte doble de documentos se monta fácilmente en el Acrobat Versa para proporcionar un soporte secundario. Los portadores de documentos se incorporaron al diseño del Versa para proporcionar la retención de las facturas de los clientes, la inspiración, los ejemplos o lo que sea que desee adjuntar con el imán de 14 libras. No es compatible con Acrobat Classic.",
+    "image": "https://static.wixstatic.com/media/40e73e_53c6ea10712f4ccc90889047bca29a19~mv2.jpg/v1/fill/w_498,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/40e73e_53c6ea10712f4ccc90889047bca29a19~mv2.jpg",
+    "price": "$0.00"
+  },
+  {
+    "id": 115,
+    "name": "Mount Kit for Acrobat® Classic Stand / EMZ-8TR",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "A mount kit for the Acrobat® Classic Stand and EMZ-8TR.",
+    "image": [
+      "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg"
+    ],
+    "price": "$0.00"
+  },
+  {
+    "id": 116,
+    "name": "Mount Kit for Acrobat® Classic Stand / EMZ-8TR",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "A mount kit for the Acrobat® Classic Stand and EMZ-8TR.",
+    "image": [
+      "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg"
+    ],
+    "price": "$0.00"
+  },
+  {
+    "id": 117,
+    "name": "Mount Kit for Acrobat® Classic Stand / EMZ-8TR",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "A mount kit for the Acrobat® Classic Stand and EMZ-8TR.",
+    "image": [
+      "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg"
+    ],
+    "price": "$0.00"
+  },
+  {
+    "id": 118,
+    "name": "Mount Kit for Acrobat® Classic Stand / EMZ-8TR",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "A mount kit for the Acrobat® Classic Stand and EMZ-8TR.",
+    "image": [
+      "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg"
+    ],
+    "price": "$0.00"
+  },
+  {
+    "id": 119,
+    "name": "Mount Kit for Acrobat® Classic Stand / EMZ-8TR",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "A mount kit for the Acrobat® Classic Stand and EMZ-8TR.",
+    "image": [
+      "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg"
+    ],
+    "price": "$0.00"
+  },
+  {
+    "id": 120,
+    "name": "Mount Kit for Acrobat® Classic Stand / EMZ-8TR",
+    "category": "Microscopios Y Lupas",
+    "brand": "GRS",
+    "description": "A mount kit for the Acrobat® Classic Stand and EMZ-8TR.",
+    "image": [
+      "https://static.wixstatic.com/media/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_e4e8d0aa6f6446da8be597147774e154~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_5335bcebc9084cd2a4c70583f564608f~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_95ad17e2a26341d99f2ecbf34e60a145~mv2.jpg",
+      "https://static.wixstatic.com/media/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg/v1/fill/w_162,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40e73e_029118ee6a714242b86b88c9c62bcdd7~mv2.jpg"
+    ],
+    "price": "$0.00"
+  },
+  {
+    "id": 121,
+    "name": "WHEEL STORAGE RACK",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Wheel storage rack",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 122,
+    "name": "QUICK WHEEL CHANGE ADAPTER",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Quick wheel change adapter",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 123,
+    "name": "WHEEL BLANK, 6″ (150MM)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Wheel blank",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 124,
+    "name": "WHEEL BLANK, 5″ (125MM)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Wheel blank",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 125,
+    "name": "CERAMIC LAP, 6-INCH / 150 MM",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Ceramic lap",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 126,
+    "name": "CAST IRON LAP, 6″ (150 MM)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Cast iron lap",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 127,
+    "name": "1200 GRIT (FINE) 5-INCH / 125 MM DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Diamond wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 128,
+    "name": "600 GRIT (MEDIUM) 5-INCH / 125 MM DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Diamond wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 129,
+    "name": "BROWN MEDIUM-COARSE DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Medium-coarse diamond wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 130,
+    "name": "GRAY ROUGHING DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Roughing wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 131,
+    "name": "STANDARD SHARPENING FIXTURE",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Standard sharpening fixture",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 132,
+    "name": "QUICK CHANGE SHARPENING FIXTURE",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Quick change sharpening fixture",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 133,
+    "name": "QUICK CHANGE (HEAD ONLY)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Quick change head only",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 134,
+    "name": "QC LOCKING ADAPTER KIT",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Locking adapter kit",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 135,
+    "name": "POST ASSEMBLY",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Post assembly",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 136,
+    "name": "EASYGRAVER SHARPENING FIXTURE 120˚",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Sharpening fixture",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 137,
+    "name": "EASYGRAVER SHARPENING FIXTURE 105˚",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Sharpening fixture",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 138,
+    "name": "DUAL ANGLE SHARPENING FIXTURE",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Dual angle sharpening fixture",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 139,
+    "name": "DUAL ANGLE (HEAD ONLY)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Dual angle head only",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 140,
+    "name": "WHEEL STORAGE RACK",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Wheel storage rack",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 141,
+    "name": "QUICK WHEEL CHANGE ADAPTER",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Quick wheel change adapter",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 142,
+    "name": "WHEEL BLANK, 6″ (150MM)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Wheel blank",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 143,
+    "name": "WHEEL BLANK, 5″ (125MM)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Wheel blank",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 144,
+    "name": "CERAMIC LAP, 6-INCH / 150 MM",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Ceramic lap",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 145,
+    "name": "CAST IRON LAP, 6″ (150 MM)",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Cast iron lap",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 146,
+    "name": "1200 GRIT (FINE) 5-INCH / 125 MM DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Diamond wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 147,
+    "name": "600 GRIT (MEDIUM) 5-INCH / 125 MM DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Diamond wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 148,
+    "name": "BROWN MEDIUM-COARSE DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Medium-coarse diamond wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 149,
+    "name": "GRAY ROUGHING DIAMOND WHEEL",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Roughing wheel",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
+  },
+  {
+    "id": 150,
+    "name": "STANDARD SHARPENING FIXTURE",
+    "category": "Herramientas",
+    "brand": "GRS",
+    "description": "Standard sharpening fixture",
+    "image": "https://static.wixstatic.com/media/dfa7a6_baa18ae7082c4a4e8cbaadd3996438e6~mv2.png/v1/crop/x_83,y_276,w_376,h_194/fill/w_524,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/Naranjo%20Logo%20(1).png",
+    "price": "$0.00"
   }
 ]
