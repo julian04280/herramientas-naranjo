@@ -5,6 +5,9 @@ import Hero from './components/ui/Hero';
 import ProductCard from './components/catalog/ProductCard';
 import ContactForm from './components/layout/ContactForm';
 import Cart from './components/layout/Cart';
+import TopBanner from './components/ui/TopBanner';
+import ImageSlider from './components/ui/ImageSlider';
+import ProcessSection from './components/ui/ProcessSection';
 import productsData from './data/products.json';
 
 interface CartItem {
@@ -72,6 +75,7 @@ function App() {
         <meta property="og:type" content="website" />
       </Helmet>
 
+      <TopBanner />
       <Navbar 
         onSearch={setSearchTerm} 
         searchTerm={searchTerm} 
@@ -81,6 +85,8 @@ function App() {
       
       <main className="flex-grow">
         <Hero />
+        <ImageSlider />
+        <ProcessSection />
         
         <section id="catalog" className="container mx-auto px-4 py-16">
           <div className="flex flex-col md:flex-row justify-between items-center mb-12 space-y-6 md:space-y-0">
