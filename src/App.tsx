@@ -60,7 +60,7 @@ function App() {
   const cartCount = cartItems.reduce((sum, item) => sum + item.quantity, 0);
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
+    <div className="min-h-screen bg-naranjo-dark flex flex-col">
       <Helmet>
         <title>Naranjo Héctor | Herramientas de Joyería y Grabado de Alta Precisión</title>
         <meta name="description" content="Distribuidor oficial de herramientas GRS y JURA en Colombia. Encuentra sistemas de aire, microbloques, microscopios y buriles para joyería profesional." />
@@ -85,20 +85,20 @@ function App() {
         <section id="catalog" className="container mx-auto px-4 py-16">
           <div className="flex flex-col md:flex-row justify-between items-center mb-12 space-y-6 md:space-y-0">
             <div>
-              <h2 className="text-3xl font-bold text-naranjo-dark">Nuestro Catálogo</h2>
-              <p className="text-gray-500 mt-2">Explora nuestra selección de herramientas de alta precisión</p>
+              <h2 className="text-3xl font-bold text-white">Nuestro Catálogo</h2>
+              <p className="text-gray-400 mt-2">Explora nuestra selección de herramientas de alta precisión</p>
             </div>
             
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 w-full md:w-auto">
               <input 
                 type="text" 
                 placeholder="Buscar productos..."
-                className="px-6 py-3 rounded-full bg-white border border-gray-200 focus:outline-none focus:ring-2 focus:ring-naranjo-primary w-full sm:w-64"
+                className="px-6 py-3 rounded-full bg-naranjo-gray text-white border border-white/10 focus:outline-none focus:ring-2 focus:ring-naranjo-primary w-full sm:w-64"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
               <select 
-                className="px-6 py-3 rounded-full bg-white border border-gray-200 focus:outline-none focus:ring-2 focus:ring-naranjo-primary appearance-none cursor-pointer"
+                className="px-6 py-3 rounded-full bg-naranjo-gray text-white border border-white/10 focus:outline-none focus:ring-2 focus:ring-naranjo-primary appearance-none cursor-pointer"
                 value={selectedCategory}
                 onChange={(e) => setSelectedCategory(e.target.value)}
               >

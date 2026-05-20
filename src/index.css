@@ -2,8 +2,8 @@
 
 @theme {
   --color-naranjo-primary: #2e7d32;
-  --color-naranjo-dark: #1b3022;
-  --color-naranjo-gray: #f5f5f5;
+  --color-naranjo-dark: #0a0a0a;
+  --color-naranjo-gray: #1a1a1a;
   --color-naranjo-accent: #ffd700;
 }
 
@@ -11,8 +11,8 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  background-color: #ffffff;
-  color: #1a1a1a;
+  background-color: #0a0a0a;
+  color: #f5f5f5;
 }
 
 body {
