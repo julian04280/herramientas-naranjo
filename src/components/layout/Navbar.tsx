@@ -19,7 +19,7 @@ const Navbar: FC<NavbarProps> = ({ onSearch, searchTerm, onOpenCart, cartCount }
     <nav className="bg-naranjo-dark text-white sticky top-0 z-50 shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center relative">
         <div className="flex items-center space-x-3 z-10">
-          <img src="/recursos/logo.jpeg" alt="Logo Naranjo Héctor" className="h-12 w-12 object-contain rounded-full border border-naranjo-accent/20 bg-white p-0.5" />
+          <img src="/recursos/logo_negro.png" alt="Logo Naranjo Héctor" className="h-12 w-12 object-contain" />
           <span className="font-bold text-lg tracking-tight hidden sm:inline-block md:inline lg:text-xl truncate max-w-[150px] sm:max-w-none">
             Naranjo Héctor Herramientas para Joyeros
           </span>

@@ -33,10 +33,10 @@ const Hero: FC = () => {
         </div>
         <div className="hidden md:block md:w-1/2">
           <div className="relative h-96 w-full flex justify-center items-center">
-             <div className="w-80 h-80 rounded-3xl bg-white/5 border border-white/20 backdrop-blur-md flex justify-center items-center rotate-3 hover:rotate-0 transition-transform duration-700 shadow-2xl">
-                <img src="/recursos/logo.jpeg" alt="Logo" className="w-56 h-56 object-contain" />
+             <div className="w-80 h-80 flex justify-center items-center rotate-3 hover:rotate-0 transition-transform duration-700">
+                <img src="/recursos/logo_negro.png" alt="Logo" className="w-64 h-64 object-contain drop-shadow-[0_0_15px_rgba(255,215,0,0.3)]" />
              </div>
-             <div className="absolute -bottom-6 -left-6 w-44 h-44 rounded-2xl bg-naranjo-accent/20 backdrop-blur-sm -rotate-6 border border-naranjo-accent/30"></div>
+             <div className="absolute -bottom-6 -left-6 w-44 h-44 rounded-2xl bg-naranjo-accent/10 backdrop-blur-sm -rotate-6 border border-naranjo-accent/20"></div>
           </div>
         </div>
       </div>
