@@ -113,8 +113,8 @@ const Cart: FC<CartProps> = ({ isOpen, onClose, items, onUpdateQuantity, onRemov
 
             {step === 'checkout' && (
               <div className="p-8">
-                <div className="mb-8 p-4 bg-orange-50 rounded-xl border border-orange-100">
-                  <p className="text-sm text-orange-800 font-medium">
+                <div className="mb-8 p-4 bg-green-50 rounded-xl border border-green-100">
+                  <p className="text-sm text-green-800 font-medium">
                     Resumen: {items.length} productos por un total de <span className="font-bold">${totalPrice.toLocaleString('en-US', { minimumFractionDigits: 2 })}</span>
                   </p>
                 </div>
@@ -143,7 +143,7 @@ const Cart: FC<CartProps> = ({ isOpen, onClose, items, onUpdateQuantity, onRemov
                     <input type="email" name="email" required className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:ring-2 focus:ring-naranjo-primary outline-none" placeholder="juan@ejemplo.com" />
                   </div>
                   
-                  <button type="submit" className="w-full bg-naranjo-primary hover:bg-orange-600 text-white font-bold py-4 rounded-xl shadow-lg transition-all flex justify-center items-center space-x-2">
+                  <button type="submit" className="w-full bg-naranjo-primary hover:bg-green-700 text-white font-bold py-4 rounded-xl shadow-lg transition-all flex justify-center items-center space-x-2">
                     <span>Confirmar y Enviar Pedido</span>
                     <Send size={18} />
                   </button>
@@ -183,7 +183,7 @@ const Cart: FC<CartProps> = ({ isOpen, onClose, items, onUpdateQuantity, onRemov
               </div>
               <button 
                 onClick={() => setStep('checkout')}
-                className="w-full bg-naranjo-primary hover:bg-orange-600 text-white font-bold py-4 rounded-xl shadow-lg shadow-orange-500/20 transition-all"
+                className="w-full bg-naranjo-primary hover:bg-green-700 text-white font-bold py-4 rounded-xl shadow-lg shadow-green-900/20 transition-all"
               >
                 Finalizar Compra
               </button>

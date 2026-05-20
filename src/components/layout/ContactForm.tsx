@@ -102,7 +102,7 @@ const ContactForm: FC = () => {
 
                 <button 
                   type="submit"
-                  className="w-full bg-naranjo-primary hover:bg-orange-600 text-white font-bold py-4 rounded-xl transition-all flex justify-center items-center space-x-2"
+                  className="w-full bg-naranjo-primary hover:bg-green-700 text-white font-bold py-4 rounded-xl transition-all flex justify-center items-center space-x-2"
                 >
                   <span>Enviar Mensaje</span>
                   <Send size={18} />

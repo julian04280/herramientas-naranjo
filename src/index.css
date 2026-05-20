@@ -1,9 +1,10 @@
 @import "tailwindcss";
 
 @theme {
-  --color-naranjo-primary: #ff6600;
-  --color-naranjo-dark: #1a1a1a;
+  --color-naranjo-primary: #2e7d32;
+  --color-naranjo-dark: #1b3022;
   --color-naranjo-gray: #f5f5f5;
+  --color-naranjo-accent: #ffd700;
 }
 
 :root {
