@@ -3,13 +3,18 @@ import type { FC } from 'react';
 const Hero: FC = () => {
   return (
     <div className="relative bg-naranjo-dark py-28 overflow-hidden">
-      {/* Background Image with Overlay */}
+      {/* Video Background with Overlay */}
       <div className="absolute inset-0 z-0">
-        <img 
-          src="/recursos/melting-gold.avif" 
-          alt="Gold Background" 
-          className="w-full h-full object-cover opacity-40"
-        />
+        <video 
+          autoPlay 
+          muted 
+          loop 
+          playsInline
+          className="w-full h-full object-cover opacity-60"
+        >
+          <source src="/recursos/banner_fundicion.mp4" type="video/mp4" />
+          Tu navegador no soporta el tag de video.
+        </video>
         <div className="absolute inset-0 bg-gradient-to-b from-naranjo-dark/80 via-naranjo-dark/40 to-naranjo-dark"></div>
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_50%,var(--color-naranjo-primary),transparent)] opacity-30"></div>
       </div>
@@ -34,7 +39,11 @@ const Hero: FC = () => {
         <div className="hidden md:block md:w-1/2">
           <div className="relative h-96 w-full flex justify-center items-center">
              <div className="w-80 h-80 flex justify-center items-center rotate-3 hover:rotate-0 transition-transform duration-700">
-                <img src="/recursos/logo_negro.png" alt="Logo" className="w-64 h-64 object-contain drop-shadow-[0_0_15px_rgba(255,215,0,0.3)]" />
+                <img 
+                  src="/recursos/logo.png" 
+                  alt="Logo" 
+                  className="w-64 h-64 object-contain brightness-110 contrast-125 drop-shadow-[0_0_20px_rgba(255,215,0,0.5)]" 
+                />
              </div>
              <div className="absolute -bottom-6 -left-6 w-44 h-44 rounded-2xl bg-naranjo-accent/10 backdrop-blur-sm -rotate-6 border border-naranjo-accent/20"></div>
           </div>
